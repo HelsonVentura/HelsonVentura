@@ -15,9 +15,7 @@
 </div>
 <!–-Todos os icones foram retirados do site "https://devicon.dev/"-->
 
-
-<div>
 <strong>->Social:</strong><br> 
-    
+<div>    
 <a href="https://linktr.ee/nosleholiver" target="_blank"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
 </div>
