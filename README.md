@@ -3,7 +3,7 @@
 -> Sou um estudante e grande fã de técnologia!!<br>
 -> Atualmente estudando Python com foco em Data science e Machine learning 🧠<br>
 
-<h1>Languages and Tools:</h1><br>
+<h1>Languages and Tools:</h1>
 <div style="display: inline_block"><br>
     <img align="center" alt="Helson-ubt" height="30" widTth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
     <img align="center" alt="Helson-vs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">   
