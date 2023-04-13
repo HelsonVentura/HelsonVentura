@@ -3,7 +3,7 @@
 -> Sou um estudante e grande fã de técnologia!!<br>
 -> Atualmente estudando Python com foco em Data science e Machine learning 🧠<br>
 
-<strong><h1>Languages and Tools:</h1></strong>
+<strong>##Languages and Tools:</strong>
 <div style="display: inline_block"><br>
     <img align="center" alt="Helson-ubt" height="30" widTth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
     <img align="center" alt="Helson-vs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">   
@@ -15,5 +15,5 @@
 </div>
 <!–-Todos os icones foram retirados do site "https://devicon.dev/"-->
 
-<strong><h2>Social:</h2></strong> 
+<strong>##Social:</strong> 
 <a href="https://linktr.ee/nosleholiver" target="_blank"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
