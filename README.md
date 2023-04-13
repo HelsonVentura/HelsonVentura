@@ -1,4 +1,4 @@
-### Olá! Me chamo Helson   
+### HI! My name is Helson!   
 
 * 🧠 Back-end developer passionate about technology.
 
