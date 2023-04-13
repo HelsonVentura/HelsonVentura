@@ -12,7 +12,7 @@
     <img align="center" alt="Helson-An" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">
     <img align="center" alt="Helson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Helson-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-</div>
+</div><br>
 <!–-Todos os icones foram retirados do site "https://devicon.dev/"-->
 
 <strong>->Social:</strong><br> 
