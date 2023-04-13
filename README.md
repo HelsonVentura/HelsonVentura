@@ -1,7 +1,10 @@
-## Olá! Me chamo Helson   
+### Olá! Me chamo Helson   
 
--> Sou um estudante e grande fã de técnologia!!<br>
--> Atualmente estudando Python com foco em Data science e Machine learning 🧠<br>
+* 🧠 Back-end developer passionate about technology.
+
+* 🧐 Open source enthusiast. machine learning lover!
+
+* 🔥 I really love the emotion of making what I want possible!
 
 <strong>->Languages and Tools:</strong><br>
 <div style="display: inline_block"><br>
